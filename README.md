@@ -2,6 +2,7 @@
 Real-world ML projects with datasets, EDA, and predictive modeling
 
 📌 About This Repository
+
 This repository contains various Machine Learning projects that cover different domains, including data preprocessing, exploratory data analysis (EDA), feature engineering, and predictive modeling. The goal is to build a strong portfolio of hands-on ML projects using Python and popular libraries such as Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, and TensorFlow.
 
 📂 Projects Included
