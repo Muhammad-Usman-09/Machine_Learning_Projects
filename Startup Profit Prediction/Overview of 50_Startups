@@ -1,0 +1,13 @@
+ Startup Profit Prediction (50_Startups.csv)
+
+Objective: Predict the profit of startups based on factors like R&D Spend, Administration, Marketing Spend, and State.
+
+Techniques Used:
+
+    ✅ Data Cleaning & Preprocessing
+    
+    ✅ Feature Encoding (Handling Categorical Data)
+    
+    ✅ Multiple Linear Regression
+    
+    ✅ Data Visualization (Heatmaps, Correlation Analysis)
