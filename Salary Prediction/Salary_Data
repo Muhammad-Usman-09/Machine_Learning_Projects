@@ -1,0 +1,11 @@
+Salary Prediction (Salary_Data.csv)
+
+Objective: Predict the salary of an employee based on Years of Experience.
+
+Techniques Used:
+
+    ✅ Simple Linear Regression
+    
+    ✅ Data Visualization (Scatter Plots, Regression Line)
+    
+    ✅ Model Evaluation (R² Score, Mean Squared Error)
