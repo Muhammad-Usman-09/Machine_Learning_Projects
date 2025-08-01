@@ -1,4 +1,5 @@
-**Machine Learning Projects 🚀**
+**Machine Learning Projects **
+
 Real-world ML projects with datasets, EDA, and predictive modeling
 
 📌 About This Repository
